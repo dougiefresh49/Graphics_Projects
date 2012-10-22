@@ -29,4 +29,4 @@ To run the code:
 ---------------------------
 -Run the executable or import the project into Visual Studios
 
-
+NOTE: The triangle will spin at a fast pace when the mouse is moved north but on some computers this does not happen for some reason.
