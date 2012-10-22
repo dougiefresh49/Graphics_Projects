@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="dbl3.c">
+    <ClCompile Include="spinning_triangle_code.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

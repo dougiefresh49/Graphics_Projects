@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{BC6F470D-ED68-4055-AED7-8B341AF057ED}</ProjectGuid>
+    <ProjectGuid>{C3B610D9-B713-4474-B2BA-FC4A9E66B2CD}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>SpinningTriagnle</RootNamespace>
+    <RootNamespace>Spinning_Triangle</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -76,7 +76,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="dbl3.c" />
+    <ClCompile Include="spinning_triangle_code.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
